@@ -1,7 +1,1 @@
-{
-    "description": "Ethersox Official NFT",
-    "external_url": "https://ethersocks.io/",
-    "image": "https://raw.githubusercontent.com/ether-socks/shiny-chainsaw/main/sox_reveal_.png",
-    "name": "Secret Rhino",
-    "attributes": [ ]
-}
+{"description":"Ethersox Official NFT","external_url":"https://ethersocks.io/","image":"https://raw.githubusercontent.com/ether-socks/shiny-chainsaw/main/47.png","name":"Leslie","attributes":[{"trait_type":"Position","value":"Sleeping"},{"trait_type":"Base Color 1","value":"Carbon"},{"trait_type":"Base Color 2","value":"Onyx"},{"trait_type":"Base Color 3","value":"Slate"},{"trait_type":"Feature","value":"The Hash"},{"trait_type":"Feet Color","value":"Pastel"},{"trait_type":"Leg Color","value":"Frosty"},{"trait_type":"Horn Color","value":"Amber"},{"trait_type":"Tail Color","value":"Amber"},{"trait_type":"Background Color","value":"Rosy"}]}
